@@ -1,0 +1,2 @@
+# ActivityIndicatorManager
+簡易版的 ActivityIndicatorManager
